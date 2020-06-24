@@ -1,0 +1,17 @@
+{
+  "name": "quit",
+  "version": "0.0.1",
+  "main": "node bot.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.0",
+    "moment": "^2.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "burak",
+  "license": "ISC",
+  "description": ""
+}
